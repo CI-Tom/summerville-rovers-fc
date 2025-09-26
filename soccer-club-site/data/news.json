@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Rovers edge Westhill in 2\u20131 away thriller",
+    "date": "2025-09-21",
+    "image": "images/news1.jpg",
+    "excerpt": "A late header from captain Sean Doyle sealed the points after a battling display at Westhill."
+  },
+  {
+    "id": 2,
+    "title": "U14s claim Community Cup!",
+    "date": "2025-09-14",
+    "image": "images/news2.jpg",
+    "excerpt": "Huge congratulations to our Under\u201114s who lifted the cup after a penalty shootout at Portland Park."
+  },
+  {
+    "id": 3,
+    "title": "New floodlights installed at Portland Park",
+    "date": "2025-09-07",
+    "image": "images/news3.jpg",
+    "excerpt": "The upgrade brings brighter, more energy\u2011efficient lighting ahead of the winter schedule."
+  }
+]

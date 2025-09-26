@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2025-09-28",
+    "comp": "League",
+    "home": false,
+    "opponent": "Westhill FC",
+    "time": "14:00"
+  },
+  {
+    "date": "2025-10-04",
+    "comp": "League",
+    "home": true,
+    "opponent": "Eastfield United",
+    "time": "15:00"
+  },
+  {
+    "date": "2025-10-12",
+    "comp": "Cup R2",
+    "home": true,
+    "opponent": "Milltown City",
+    "time": "13:00"
+  },
+  {
+    "date": "2025-10-19",
+    "comp": "League",
+    "home": false,
+    "opponent": "Harbour Rovers",
+    "time": "16:00"
+  }
+]
